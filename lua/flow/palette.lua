@@ -30,7 +30,7 @@ function M.get()
         grey = {
             [1] = hsl(207, 22, 10), -- Very dark grey
             [2] = hsl(204, 20, 13), -- Dark grey
-            [3] = hsl(205, 20, 30), -- Medium dark grey
+            [3] = hsl(0, 0, 13), -- Medium dark grey
             [4] = hsl(206, 20, 40), -- Medium grey
             [5] = hsl(205, 20, 65), -- Medium light grey
             [6] = hsl(205, 20, 75), -- Light grey
